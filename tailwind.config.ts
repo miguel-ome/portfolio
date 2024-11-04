@@ -13,6 +13,9 @@ const config: Config = {
         black: "#000000",
         white: "#ffffff",
       },
+      fontSize: {
+        title: "3rem",
+      },
     },
   },
   plugins: [],

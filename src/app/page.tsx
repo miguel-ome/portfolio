@@ -22,7 +22,7 @@ export default function Home() {
                 className="object-cover"
               />
             </div>
-            <h1 className="text-5xl">Eliseu Miguel</h1>
+            <h1 className="text-title">Eliseu Miguel</h1>
             <p className="text-lg">Vamos projetar algo juntos ?</p>
           </div>
         </div>
