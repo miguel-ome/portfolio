@@ -13,7 +13,7 @@ export default function Home() {
             fill={true}
             className="object-cover"
           />
-          <div className="relative flex flex-col items-center space-y-5 text-white mb-10">
+          <div className="relative flex flex-col items-center space-y-5 text-white mb-24">
             <div className="w-16 h-16 relative">
               <Image
                 src={Logo}
